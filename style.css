@@ -1,0 +1,138 @@
+*{
+  margin: 0px;
+}
+
+.navbar{
+  font-family: satisfy ;
+}
+nav ul li a{
+  text-decoration-line: none;
+  list-style-type: none;
+  font-size: 20px;
+   color: #0c0505;
+}
+nav ul li {
+ 
+  list-style-type: none;
+  display: inline;
+  margin: 50px;
+  paddi: 50px;
+}
+.logo{
+font-size:xx-large;
+font-weight: bold;
+}
+nav ul li a:hover{
+  background-color:#0591af ;
+  color: #F0C993 ;
+  /* box-shadow: 3px 3px 5px salmon; */
+  border-radius: 10% 30% 50% 70%;
+}
+.section{
+  display: flex;
+  height: 500px;
+  width: 100%;
+  
+}
+.image{
+  margin: 100px;
+  border-radius: 50%;
+  height: 400px;
+  width:300px ;
+}
+.content{
+  margin: 100px;
+  pad: 50px;
+}
+.first-para{
+  font-size: xx-large;
+  margin: 100px;
+  font-weight: bold;
+  font-family: satisfy;
+}
+.Second-para{
+  font-size: large;
+  margin: 50px;
+  font-weight:bolder;
+  font-family: satisfy;
+}
+.third-para{
+  font-size: large;
+  margin: 50px;
+  font-weight:bolder;
+  font-family: satisfy;
+}
+.button1{
+  border: 1px solid #ffffff;
+  border-radius: 25% 10%;;
+  background-color: blue;
+  color:#ffffff;
+  padding: 15px;
+}
+.button2{
+  border: 1px solid #ffffff;
+  border-radius: 25% 10%;;
+  background-color: blue;
+  color:#ffffff;
+  padding: 15px;
+}
+.button1:hover{
+  box-shadow: 3px 3px 5px hsl(59, 58%, 44%);
+}
+.button2:hover{
+  box-shadow: 3px 3px 5px hsl(59, 58%, 44%);
+}
+.section2{
+  margin: 100px;
+  text-align: center;
+}
+.firstpara{
+  font-family: cursive;
+}
+.secondpara{
+  font-family: satisfy;
+  font-weight: bold;
+  color: blue;
+  font-size: xx-large;
+
+}
+.breaksection{
+  margin: 70px;
+  padding: 15px;
+ height:60px ;
+
+}
+.thirdpara{
+  font-family: satisfy;
+  font-size: large;
+}
+.src{
+  height: 40px;
+  width: 40px;
+}
+.card-text{
+font-family: satisfy;
+font-size: large;
+}
+.section4 {
+  margin: 100px;
+  padding: 50px;
+  text-align: center;
+}
+.section4 p.firstpara{
+
+
+}
+/* .fifth-section{
+  height: 500px;
+  width: 1200px;
+ border: 1px solid black;
+ margin: 50px;
+ border-radius: 20px;
+ 
+
+ 
+}.fifth-section{
+background-image: url(./photos/back.jpg);
+
+} */
